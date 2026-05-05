@@ -17,7 +17,6 @@ Data Engineer with 20+ years of pipeline design, relational database architectur
 | Databases | SQL Server, MS Access, Google BigQuery |
 | Cloud & DevOps | Docker, FastAPI, Node.js, REST APIs, GitHub, Azure, Jira |
 | CRM / Enterprise | Dynamics 365, Dynamics AX, Zendesk (Admin), Salesforce, SAP, ServiceNow, AirTable, SharpSpring|
-| PM / Methodologies | Agile, Scrum, PMI, DMAIC, MS Project, UML, requirements gathering |
 | KM | SharePoint |
  
 ---
@@ -71,18 +70,6 @@ Data Engineer with 20+ years of pipeline design, relational database architectur
  
 ---
  
-### Zendesk System Implementation — Envoy Ltd. (Contract) — Sep 2024 – Jan 2025
-**Stack:** Zendesk (Admin) · KnowledgeCenter · LLM integration
-**What was built:** Full lifecycle implementation: discovery → requirements translation → system design → deployment → scaling. Integrated KnowledgeCenter with AI tooling to build an internal LLM-backed knowledge layer. Delivered self-service customization capability to non-technical end users.
- 
----
- 
-### Zendesk Analytics System — Equium Group (Contract) — Jul–Oct 2024
-**Stack:** Zendesk (Admin) · Automation · Statistical Analysis · Segmentation
-**What was built:** Webform channel with automated routing, segmentation tags, and enhanced ticket analytics. Statistical analysis of historical interactions yielding seasonal trend discovery and resource forecasting. Reduced email-based processing time by 70%; implemented 3-tier SLA (immediate response → 1-day resolution → close).
- 
----
- 
 ## Portfolio — Analytics & Quantitative Analysis
  
 ### HP Product Line Analytics — Hewlett Packard — 2010–2014
@@ -103,6 +90,20 @@ Data Engineer with 20+ years of pipeline design, relational database architectur
 ### KnowledgeDIRECT Performance Metrics — KnowledgeDIRECT — 2006–2010
 **Stack:** Technical documentation systems · Performance metrics design · Workflow standardization
 **What was built:** Managed technical documentation requests; created performance metrics and standardized workflows for an HP-aligned knowledge management organization.
+ 
+---
+
+## Technical Implementations
+
+### Zendesk System Implementation — Envoy Ltd. (Contract) — Sep 2024 – Jan 2025
+**Stack:** Zendesk (Admin) · KnowledgeCenter · LLM integration
+**What was built:** Full lifecycle implementation: discovery → requirements translation → system design → deployment → scaling. Integrated KnowledgeCenter with AI tooling to build an internal LLM-backed knowledge layer. Delivered self-service customization capability to non-technical end users.
+ 
+---
+ 
+### Zendesk Analytics System — Equium Group (Contract) — Jul–Oct 2024
+**Stack:** Zendesk (Admin) · Automation · Statistical Analysis · Segmentation
+**What was built:** Webform channel with automated routing, segmentation tags, and enhanced ticket analytics. Statistical analysis of historical interactions yielding seasonal trend discovery and resource forecasting. Reduced email-based processing time by 70%; implemented 3-tier SLA (immediate response → 1-day resolution → close).
  
 ---
  
