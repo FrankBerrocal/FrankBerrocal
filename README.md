@@ -14,10 +14,11 @@ Data Engineer with 20+ years of pipeline design, relational database architectur
 | Data Engineering | ELT/ETL Pipelines, dbt (in progress), Snowflake, BigQuery, Azure, Power Query, DAX |
 | Orchestration | Make.com, Google Apps Script, Zapier, PowerApps, VBA |
 | BI & Visualization | Power BI (cloud + on-prem), Looker, Tableau, Google Data Studio |
-| Databases | SQL Server, MS Access, Google BigQuery, SharePoint |
+| Databases | SQL Server, MS Access, Google BigQuery |
 | Cloud & DevOps | Docker, FastAPI, Node.js, REST APIs, GitHub, Azure, Jira |
-| CRM / Enterprise | Dynamics 365, Dynamics AX, Zendesk (Admin), Salesforce, SAP, ServiceNow, AirTable, SharpSpring |
+| CRM / Enterprise | Dynamics 365, Dynamics AX, Zendesk (Admin), Salesforce, SAP, ServiceNow, AirTable, SharpSpring|
 | PM / Methodologies | Agile, Scrum, PMI, DMAIC, MS Project, UML, requirements gathering |
+| KM | SharePoint |
  
 ---
  
@@ -113,8 +114,8 @@ Data Engineer with 20+ years of pipeline design, relational database architectur
 | Géo3D Pro | 3D geometric calculations | Python · FastAPI · GCP | [Live](https://g-o3d-pro-par-frank-berrocal-2026-712270261037.us-west1.run.app) |
 | POLYCALC | 2D geometric calculations | Python · FastAPI · GCP | [Live](https://polycalc-frank-berrocal-2026-712270261037.us-west1.run.app) |
 | ML Predictions | Supervised ML exercises | Python · Jupyter · Netlify | [Live](https://frankberrocal-ml1.netlify.app) |
-| Linear Regression | Regression exercises | Python · Jupyter · Netlify | [Live](https://frenkberrocal-regression1.netlify.app) |
-| Analyseur Français | French language analysis tool | Python · FastAPI · GCP | [Live](https://analyseur-fran-ais-par-frank-berrocal-712270261037.us-west1.run.app) |
+| Linear Regression | Regression exercises | Python · Jupyter · Netlify | [Live](https://frankberrocal-regression1.netlify.app) |
+| Analyseur Linguistique du Français | French language analysis tool | Python · FastAPI · GCP | [Live](https://aistudio.google.com/apps/2590b164-7ae0-46b1-8fec-21e733172407?showPreview=true&showAssistant=true&project=gen-lang-client-0262053550) |
  
 ---
  
