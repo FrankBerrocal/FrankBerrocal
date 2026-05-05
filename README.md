@@ -41,7 +41,7 @@ Data Engineer with 20+ years of pipeline design, relational database architectur
 **Stack:** Excel · DAX · Power Query · Power BI · Tableau · Google Script · JavaScript · VBA · Azure DB
 **What was built:** Operational analytics pipeline for VMware's vSphere Knowledge Management program. Automated data collection and access across the KB program; built a unified weekly report template tracking SR volume (687+/week), KB external views (58,649/week), SR/KB linkage rate (25.76%), average TTR (3.18), and YoY/MoM/WoW deltas. Historical data spans 2012–2015 across four product lines: vCenter Server, vCenter Server Appliance, vSphere ESXi, vSAN.
 **Dimensions tracked:** Channel split (web/phone), product line segmentation, 24-hour/1–3 day/3–7 day cohort analysis.
-**Evidence:** `KX_vSphere_Unified.xlsx` · `KX_View_Unified_Week_28.xlsx`
+**Evidence:** `KX_vSphere_Unified.xlsx` · `KX_View_Unified_Week_28.xlsx`  [Repo](https://github.com/FrankBerrocal/CV_Evidence)
  
 ---
  
@@ -59,14 +59,14 @@ Data Engineer with 20+ years of pipeline design, relational database architectur
 - **Phase 1 (Mar–Aug 2017 — PM/Data Analyst):** Conducted business analysis to resolve system incompatibilities. Built the first meta-analysis to compute cost of parts and resources based on service geolocation. ETL extraction from Dynamics to Power BI (online + on-premise).
 - **Phase 2 (Aug 2017–Sep 2018 — Functional Analyst/IT):** Designed and led development of 5 Dynamics 365 modules: Production, Technical Service, Deployment, Products, and Project Management. Delivered complete ERD, entity field mapping (bilingual EN/ES) across Contracts/Services/Subcontracts/Production/Billing. Named field convention system with typed prefixes. Full process documentation and end-user training.
 - **Phase 3 (Sep 2018–May 2019 — Project Manager):** Led PMO creation. Constructed Service and Project Management CRM module. Developed annual PMO operations budget. Standardized project management documentation suite.
-**Evidence:** `IMG_1351.jpeg` (ERD diagram) · `10.Campos de Entidad Producción V1.xlsx` · `11.Validación de nombres IU CRM IPI.xlsx`
+**Evidence:** `IMG_1351.jpeg` (ERD diagram) · `10.Campos de Entidad Producción V1.xlsx` · `11.Validación de nombres IU CRM IPI.xlsx` [Repo](https://github.com/FrankBerrocal/CV_Evidence)
  
 ---
  
 ### Amazon Fraud Detection Data Model — Amazon — May–Dec 2020
 **Stack:** Data modeling · Classification system design · Behavioral analytics · Excel
 **What was built:** Structured annotation and classification system for fraud detection on Amazon customer accounts. Taxonomy of 80+ codes across: account history, payment methods, shipping behavior, fraud indicators (chargeback, bad debt, token, velocity), identity verification, and modus operandi classification. Built self-reporting structures to track personal production time and quality metrics. Identified and designed a process model for machine learning purposes from investigation workflow data.
-**Evidence:** `TaskDataset2.xlsx` (annotated dataset with full classification schema)
+**Evidence:** `TaskDataset2.xlsx` (annotated dataset with full classification schema) [Repo](https://github.com/FrankBerrocal/CV_Evidence)
  
 ---
  
@@ -83,7 +83,7 @@ Data Engineer with 20+ years of pipeline design, relational database architectur
 **Stack:** Excel · Triangular probability distributions · Monte Carlo simulation · PERT
 **What was built:** Quantitative risk analysis for a 5-cycle, multi-year reforestation project. Applied triangular distributions (optimistic/most-likely/pessimistic) across 350+ deliverable elements. Computed simulation values, relative variation indices, and probability of occurrence per phase. Applied corrections to high-weight activities and demonstrated 10–25% improvement in on-time probability.
 **Context:** Graduate coursework, Master of Project Management — Universidad para la Cooperación Internacional (2015).
-**Evidence:** `BerrocalFrancisco_Caso3_Word.docx` · `Simulación por entregables FINAL.xlsx`
+**Evidence:** `BerrocalFrancisco_Caso3_Word.docx` · `Simulación por entregables FINAL.xlsx` [Repo](https://github.com/FrankBerrocal/CV_Evidence)
  
 ---
  
@@ -97,14 +97,15 @@ Data Engineer with 20+ years of pipeline design, relational database architectur
 
 ### Zendesk System Implementation — Envoy Ltd. (Contract) — Sep 2024 – Jan 2025
 **Stack:** Zendesk (Admin) · KnowledgeCenter · LLM integration
-**What was built:** Full lifecycle implementation: discovery → requirements translation → system design → deployment → scaling. Integrated KnowledgeCenter with AI tooling to build an internal LLM-backed knowledge layer. Delivered self-service customization capability to non-technical end users.
+**What was built:** Full lifecycle implementation: discovery → requirements translation → system design → deployment → scaling. Integrated KnowledgeCenter with AI tooling to build an internal LLM-backed knowledge layer. Delivered self-service customization capability to non-technical end users. [Repo](https://github.com/FrankBerrocal/CV_Evidence)
  
 ---
  
 ### Zendesk Analytics System — Equium Group (Contract) — Jul–Oct 2024
 **Stack:** Zendesk (Admin) · Automation · Statistical Analysis · Segmentation
 **What was built:** Webform channel with automated routing, segmentation tags, and enhanced ticket analytics. Statistical analysis of historical interactions yielding seasonal trend discovery and resource forecasting. Reduced email-based processing time by 70%; implemented 3-tier SLA (immediate response → 1-day resolution → close).
- 
+[Repo](https://github.com/FrankBerrocal/CV_Evidence)
+
 ---
  
 ## Deployed Applications
