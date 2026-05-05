@@ -124,7 +124,7 @@ Data Engineer with 20+ years of pipeline design, relational database architectur
  
 | Period | Role | Company | Location |
 |---|---|---|---|
-| Jan 2026 – Present | Analysis Engineer / QA Tech | Lighthouse Consulting | Calgary, AB |
+| Jan 2015 – Present | Analysis Engineer / QA Tech / Consultant | Lighthouse Consulting | Costa Rica → Calgary, AB |
 | Sep 2024 – Jan 2025 | Data Analyst / Implementation Consultant | Envoy Ltd. | Calgary, AB |
 | Jul 2024 – Oct 2024 | Data Analyst | Equium Group | Calgary, AB |
 | Jun 2024 | Software Developer | G2V Optics Inc. | Calgary, AB |
@@ -136,7 +136,6 @@ Data Engineer with 20+ years of pipeline design, relational database architectur
 | Sep 2018 – May 2019 | Project Manager | El Orbe | Costa Rica |
 | Aug 2017 – Sep 2018 | Functional Analyst / IT | El Orbe | Costa Rica |
 | Mar 2017 – Aug 2017 | Project Manager / Data Analyst | El Orbe | Costa Rica |
-| Aug 2015 – Present | President / Senior Consultant | Lighthouse Consulting | Costa Rica → Canada |
 | Jan 2015 – Jun 2015 | Web Analytics Data Analyst | VMware | Costa Rica |
 | Jan 2010 – Dec 2014 | Product Line Content Analyst | Hewlett Packard | Costa Rica |
 | Oct 2006 – Jan 2010 | Project Information Analyst | KnowledgeDIRECT | Costa Rica |
