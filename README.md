@@ -132,6 +132,7 @@ Data Engineer with 20+ years of pipeline design, relational database architectur
 | Jan 2022 – Sep 2023 | Data Engineer / Software Engineer | G2V Optics Inc. | Calgary, AB |
 | Dec 2020 – Jul 2021 | Business Data Analyst II | TechData | Costa Rica → Canada |
 | May 2020 – Dec 2020 | Investigation Specialist | Amazon | Costa Rica |
+| May 2019 - May 2020 | Relocation preparation, Covid affected consulting business | Lighthouse | Costa Rica |
 | Sep 2018 – May 2019 | Project Manager | El Orbe | Costa Rica |
 | Aug 2017 – Sep 2018 | Functional Analyst / IT | El Orbe | Costa Rica |
 | Mar 2017 – Aug 2017 | Project Manager / Data Analyst | El Orbe | Costa Rica |
@@ -139,7 +140,7 @@ Data Engineer with 20+ years of pipeline design, relational database architectur
 | Jan 2015 – Jun 2015 | Web Analytics Data Analyst | VMware | Costa Rica |
 | Jan 2010 – Dec 2014 | Product Line Content Analyst | Hewlett Packard | Costa Rica |
 | Oct 2006 – Jan 2010 | Project Information Analyst | KnowledgeDIRECT | Costa Rica |
-| (concurrent) | Medical/Legal Interpreter | Pacific Interpreters | Remote/CR |
+| Jan 2009 - Dec 2009 | Medical/Legal Interpreter | Pacific Interpreters | Remote/CR |
 | Nov 2005 – Oct 2006 | Off-Site Server Support Engineer | KnowledgeDIRECT | Costa Rica |
  
 ---
