@@ -117,7 +117,7 @@ Data Engineer with 20+ years of pipeline design, relational database architectur
 | POLYCALC | 2D geometric calculations | Python · FastAPI · GCP | [Live](https://polycalc-frank-berrocal-2026-712270261037.us-west1.run.app) |
 | ML Predictions | Supervised ML exercises | Python · Jupyter · Netlify | [Live](https://frankberrocal-ml1.netlify.app) |
 | Linear Regression | Regression exercises | Python · Jupyter · Netlify | [Live](https://frankberrocal-regression1.netlify.app) |
-| Analyseur Linguistique du Français | French language analysis tool | Python · FastAPI · GCP | [Live](https://aistudio.google.com/apps/2590b164-7ae0-46b1-8fec-21e733172407?showPreview=true&showAssistant=true&project=gen-lang-client-0262053550) |
+| Analyseur Linguistique du Français | French language analysis tool | Python · FastAPI · GCP | [Live](https://analyseur-linguistique-du-fran-ais-par-frank-berr-712270261037.us-west1.run.app) |
 | Rank 3 Tensor Visualization | Representation of the coordinates of a 3x256x256 rank 3 tensor | Typescript · Vite · HTML | [Live](https://rank-3-tensor-by-frank-berrocal-712270261037.us-west1.run.app) |
  
 ---
