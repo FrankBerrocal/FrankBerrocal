@@ -158,7 +158,7 @@ Data Engineer with 20+ years of pipeline design, relational database architectur
  
 **In progress:** Associate in Quality Assurance — Instituto Tecnológico de Costa Rica (Est. May 2027)
  
-WES Validated (Canada): Systems Engineering ≡ 4-year Bachelor's · MPM ≡ Master's Degree · BBA ≡ 4-year Bachelor's
+WES Validated (Canada): Systems Engineering ≡ 4-year Bachelor's · MPM ≡ Master's Degree · BBA ≡ 4-year Bachelor's [WES](https://badges.wes.org/Evidence?i=39343e84-18c5-4780-b236-d0116d09b781&type=ca&trk=public_profile_see-credential)
  
 ---
  
