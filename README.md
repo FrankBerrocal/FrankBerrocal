@@ -120,6 +120,8 @@ Data Engineer with 20+ years of pipeline design, relational database architectur
 | Analyseur Linguistique du Français | French language analysis tool | Python · FastAPI · GCP | [Live](https://analyseur-linguistique-du-fran-ais-par-frank-berr-712270261037.us-west1.run.app) |
 | Rank 3 Tensor Visualization | Representation of the coordinates of a 3x256x256 rank 3 tensor | Typescript · Vite · HTML | [Live](https://rank-3-tensor-by-frank-berrocal-712270261037.us-west1.run.app) |
 | Free Style Sim | Simulation of biological movement of competitive swimming for self learning | Typescript · Vite · HTML | [Live](https://effortless-swim-3d-kinematics-biomechanical-strok.ai.studio) |
+| Free Style Sim | Simulation of biological movement of competitive swimming for self learning | Typescript · Vite · HTML | [Live](https://effortless-swim-3d-kinematics-biomechanical-strok.ai.studio) |
+| Portfolio | This is a portfolio for software projects created during my learning at Bow Valley College | React · SQL · HMTL | [Live](https://www.youtube.com/watch?v=xTxnfJFFeoQ) |
  
 ---
  
